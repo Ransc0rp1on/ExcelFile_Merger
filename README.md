@@ -16,5 +16,5 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process -Force
 
 Then run your script:
 ```powershell
- .\Merge-NessusReports.ps1 -FIles ".\GB_UPI- Internal - 9 Ips_4w6a0w.csv" ".\GB_UPI- Internal - 9 Ips_irxvnq.csv" -OutputFile "Merged.csv
+ .\Merge-NessusReports.ps1 -FIles ".\GB_UPI- Internal - 9 Ips_4w6a0w.csv" ".\GB_UPI- Internal - 9 Ips_irxvnq.csv" -OutputFile "Merged.csv"
 ```
