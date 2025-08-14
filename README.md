@@ -1,4 +1,4 @@
-# ExcelFile_Merger
+# ExcelFile Merger
 ### **Features:**
 
 1. **Supports both CSV and Excel files** (.csv and .xlsx)
